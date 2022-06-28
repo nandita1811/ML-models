@@ -1,0 +1,24 @@
+Regression analysis is a form of predictive modelling technique which investigates the relationship between a independent and dependent variable
+uses - 
+1) determining the strength of predictors for example - what is the relationship between sales and marketing spending , relation between age and income
+2) forecasting an effect - additional changes 
+3) trend forecasting - predictive analysis in future
+
+core concept - the data is modelled using a straight line. y = mx+c
+finding correlation between y with respect to x. every value of x has a corresponding value of y if it is a continuous variable.
+
+output/prediction  - value of the variable
+
+accuracy - measured by loss, R squared, Adjusted R squared, etc.
+
+when will we use linear regression model??
+     -  not good for classification models when adding new data so we have to change threshold everytime. and have to change existing model
+     -  data quality. outliers.
+     - computational complexity
+     - comprehensible and transparent
+     
+where is linear regression used??
+     - evaluating sales and trends estimates. conducting linear analysis on monthly sales vs time can predict upward trends in the sale.
+     - analyzing the impact of price changes.
+     - assessment of risk in financial services and insurance domain - health insurance company may plot number of claims per customer against age. older ppl claim more insurances.
+     
